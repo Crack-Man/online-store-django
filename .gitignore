@@ -1,0 +1,23 @@
+# Frontend (Vue.js)
+frontend/node_modules/
+frontend/dist/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+frontend/.idea/
+frontend/.vscode/
+frontend/.DS_Store
+
+# Optional eslint cache
+frontend/.eslintcache
+
+# Optional stylelint cache
+frontend/.stylelintcache
+
+# Backend (Django)
+backend/__pycache__/
+backend/*.py[cod]
+backend/venv/
+backend/*.egg-info/
+backend/*.bak
